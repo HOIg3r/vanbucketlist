@@ -111,4 +111,5 @@ VanBien fait pour ta gueule
 VanBourpif
 VanBideABiere
 VanBodyCount
+VanBêtiseDiteAuLit
 VanBouseDeVache
