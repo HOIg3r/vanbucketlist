@@ -114,3 +114,4 @@ VanBodyCount
 VanBêtiseDiteAuLit
 VanBouseDeVache
 VanBrunch
+ABinVanbev
